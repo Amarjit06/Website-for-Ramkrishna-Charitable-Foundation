@@ -1,2 +1,2 @@
-Developed By: Webrid Technologies
-webriid.web.app
+Developed By: Amarjit Ghosh
+
